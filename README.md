@@ -101,3 +101,19 @@ Grupos bem moderados costumam manter um ambiente mais organizado e agradável pa
 Os Grupos de WhatsApp continuam sendo uma das formas mais simples e populares de criar comunidades online. Eles permitem que pessoas com interesses semelhantes se encontrem e conversem de maneira rápida e acessível.
 
 Entender como esses grupos funcionam e como os diretórios organizam essas comunidades pode ajudar qualquer pessoa a encontrar grupos ativos e participar de conversas interessantes.
+
+---
+
+## Conteúdos Deste Guia
+
+Este repositório também possui outras páginas com informações relacionadas:
+
+- [Como Encontrar Grupos de WhatsApp](./como-encontrar-grupos-de-whatsapp.md)
+- [Categorias de Grupos de WhatsApp](./categorias-de-grupos-de-whatsapp.md)
+- [Segurança em Grupos de WhatsApp](./seguranca-em-grupos-de-whatsapp.md)
+
+---
+
+## Licença
+
+Este projeto é apenas um guia informativo sobre comunidades e grupos públicos do WhatsApp.
