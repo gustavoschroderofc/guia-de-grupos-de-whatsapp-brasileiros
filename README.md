@@ -79,7 +79,7 @@ Muitas pessoas utilizam diretórios que atualizam links regularmente e organizam
 
 Se você quiser entender melhor como as pessoas encontram comunidades na internet, este guia explica o processo com mais detalhes:
 
-[Como encontrar Grupos de WhatsApp](https://www.gruposdewhatss.com.br/blog/como-encontrar-grupos-de-whatsapp)
+[Como Encontrar Grupos de WhatsApp](https://www.gruposdewhatss.com.br/blog/como-encontrar-grupos-de-whatsapp)
 
 ---
 
