@@ -77,9 +77,7 @@ Como os grupos mudam constantemente, encontrar comunidades realmente ativas pode
 
 Muitas pessoas utilizam diretórios que atualizam links regularmente e organizam grupos por categoria.
 
-Se você quiser entender melhor como as pessoas encontram comunidades na internet, este guia explica o processo com mais detalhes:
-
-[Como Encontrar Grupos de WhatsApp](https://www.gruposdewhatss.com.br/blog/como-encontrar-grupos-de-whatsapp)
+Se você quiser entender melhor esse processo, existe um guia detalhado que explica **[como encontrar Grupos de WhatsApp](https://gruposdewhatss.com.br/blog/como-encontrar-grupos-de-whatsapp)** ativos na internet e como funcionam os links de convite públicos.
 
 ---
 
