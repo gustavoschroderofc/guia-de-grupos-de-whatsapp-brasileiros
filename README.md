@@ -41,7 +41,7 @@ Um dos desafios ao procurar grupos na internet é que muitos links acabam expira
 
 Por isso, muitas pessoas utilizam diretórios que organizam os convites de grupos por categoria. Esses sites ajudam a encontrar comunidades de forma mais rápida e organizada.
 
-Um exemplo é a lista de [Grupos de WhatsApp atualizados](https://www.gruposdewhatss.com.br), que organiza comunidades públicas por diferentes temas e facilita a descoberta de novos grupos.
+Um exemplo é a lista de [Grupos de WhatsApp Atualizados](https://www.gruposdewhatss.com.br), que organiza comunidades públicas por diferentes temas e facilita a descoberta de novos grupos.
 
 ---
 
